@@ -1,6 +1,6 @@
 {
   "name": "fs-observable",
-  "version": "4.1.10",
+  "version": "4.1.11",
   "description": "Observables for node fs",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
