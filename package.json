@@ -9,7 +9,7 @@
     "build": "tsc -b",
     "test": "jest"
   },
-  "repository": "https://github.com/nteract/nteract/tree/master/packages/fs-observable",
+  "repository": "https://github.com/nteract/fs-observable",
   "keywords": [
     "rxjs",
     "fs",
@@ -18,9 +18,9 @@
   "author": "Kyle Kelley <rgbkrk@gmail.com>",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/nteract/nteract/issues"
+    "url": "https://github.com/nteract/fs-observable/issues"
   },
-  "homepage": "https://github.com/nteract/nteract/tree/master/packages/fs-observable",
+  "homepage": "https://github.com/nteract/fs-observable",
   "publishConfig": {
     "access": "public"
   },
